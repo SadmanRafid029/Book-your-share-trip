@@ -69,7 +69,7 @@ include_once("connection.php");
 			your browser</a> to improve your experience and security.</p>
 		<![endif]-->
 
-		<!-- main-menu Start -->
+		
 		<header class="top-area">
 			<div class="header-area">
 				<div class="container">
