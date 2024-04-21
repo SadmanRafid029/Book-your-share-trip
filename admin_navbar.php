@@ -61,7 +61,7 @@ body {
   <a href="admin_food.php">Food</a>
   <a href="admin_accept_reject.php">Add New Guid</a>
   <a href="Site5/admin_cancel_request.php">Ticket Cancel</a>
-  <a href="admin_login.php">LogOut</a>
+  <a href="admin_logout.php">LogOut</a>
 </div>
 
 <div id="main">
